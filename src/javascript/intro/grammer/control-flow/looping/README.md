@@ -1,6 +1,9 @@
 # Looping
 
 > What is looping good for? Why would we use a loop? When would we?
+You use loops when you want to run the same code over and over again, each time with a different value.
+
+
 
 ## Requirements
 
